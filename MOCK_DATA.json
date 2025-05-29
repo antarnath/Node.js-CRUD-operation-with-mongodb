@@ -1,0 +1,240 @@
+[
+  {
+    "id": 1,
+    "first_name": "Olivia",
+    "last_name": "Brown",
+    "email": "olivia.brown@example.com",
+    "gender": "Female",
+    "job_title": "UI/UX Designer"
+  },
+  {
+    "id": 2,
+    "first_name": "William",
+    "last_name": "Jones",
+    "email": "william.jones@example.com",
+    "gender": "Male",
+    "job_title": "DevOps Engineer"
+  },
+  {
+    "id": 3,
+    "first_name": "Ava",
+    "last_name": "Garcia",
+    "email": "ava.garcia@example.com",
+    "gender": "Female",
+    "job_title": "QA Engineer"
+  },
+  {
+    "id": 4,
+    "first_name": "James",
+    "last_name": "Miller",
+    "email": "james.miller@example.com",
+    "gender": "Male",
+    "job_title": "Business Analyst"
+  },
+  {
+    "id": 5,
+    "first_name": "Sophia",
+    "last_name": "Davis",
+    "email": "sophia.davis@example.com",
+    "gender": "Female",
+    "job_title": "Marketing Manager"
+  },
+  {
+    "id": 6,
+    "first_name": "Benjamin",
+    "last_name": "Rodriguez",
+    "email": "benjamin.rodriguez@example.com",
+    "gender": "Male",
+    "job_title": "Cybersecurity Specialist"
+  },
+  {
+    "id": 7,
+    "first_name": "Isabella",
+    "last_name": "Martinez",
+    "email": "isabella.martinez@example.com",
+    "gender": "Female",
+    "job_title": "HR Manager"
+  },
+  {
+    "id": 8,
+    "first_name": "Lucas",
+    "last_name": "Hernandez",
+    "email": "lucas.hernandez@example.com",
+    "gender": "Male",
+    "job_title": "Frontend Developer"
+  },
+  {
+    "id": 9,
+    "first_name": "Mia",
+    "last_name": "Lopez",
+    "email": "mia.lopez@example.com",
+    "gender": "Female",
+    "job_title": "Content Strategist"
+  },
+  {
+    "id": 10,
+    "first_name": "Henry",
+    "last_name": "Gonzalez",
+    "email": "henry.gonzalez@example.com",
+    "gender": "Male",
+    "job_title": "Backend Developer"
+  },
+  {
+    "id": 11,
+    "first_name": "Amelia",
+    "last_name": "Wilson",
+    "email": "amelia.wilson@example.com",
+    "gender": "Female",
+    "job_title": "Technical Writer"
+  },
+  {
+    "id": 12,
+    "first_name": "Alexander",
+    "last_name": "Anderson",
+    "email": "alexander.anderson@example.com",
+    "gender": "Male",
+    "job_title": "Full Stack Developer"
+  },
+  {
+    "id": 13,
+    "first_name": "Charlotte",
+    "last_name": "Thomas",
+    "email": "charlotte.thomas@example.com",
+    "gender": "Female",
+    "job_title": "Cloud Architect"
+  },
+  {
+    "id": 14,
+    "first_name": "Michael",
+    "last_name": "Taylor",
+    "email": "michael.taylor@example.com",
+    "gender": "Male",
+    "job_title": "AI Researcher"
+  },
+  {
+    "id": 15,
+    "first_name": "Harper",
+    "last_name": "Moore",
+    "email": "harper.moore@example.com",
+    "gender": "Female",
+    "job_title": "Project Coordinator"
+  },
+  {
+    "id": 16,
+    "first_name": "Ethan",
+    "last_name": "Jackson",
+    "email": "ethan.jackson@example.com",
+    "gender": "Male",
+    "job_title": "Data Scientist"
+  },
+  {
+    "id": 17,
+    "first_name": "Evelyn",
+    "last_name": "Martin",
+    "email": "evelyn.martin@example.com",
+    "gender": "Female",
+    "job_title": "Scrum Master"
+  },
+  {
+    "id": 18,
+    "first_name": "Daniel",
+    "last_name": "Lee",
+    "email": "daniel.lee@example.com",
+    "gender": "Male",
+    "job_title": "Systems Analyst"
+  },
+  {
+    "id": 19,
+    "first_name": "Abigail",
+    "last_name": "Perez",
+    "email": "abigail.perez@example.com",
+    "gender": "Female",
+    "job_title": "Financial Analyst"
+  },
+  {
+    "id": 20,
+    "first_name": "Matthew",
+    "last_name": "Thompson",
+    "email": "matthew.thompson@example.com",
+    "gender": "Male",
+    "job_title": "Database Administrator"
+  },
+  {
+    "id": 21,
+    "first_name": "Ella",
+    "last_name": "White",
+    "email": "ella.white@example.com",
+    "gender": "Female",
+    "job_title": "Software Tester"
+  },
+  {
+    "id": 22,
+    "first_name": "Joseph",
+    "last_name": "Harris",
+    "email": "joseph.harris@example.com",
+    "gender": "Male",
+    "job_title": "Blockchain Developer"
+  },
+  {
+    "id": 23,
+    "first_name": "Scarlett",
+    "last_name": "Sanchez",
+    "email": "scarlett.sanchez@example.com",
+    "gender": "Female",
+    "job_title": "Legal Advisor"
+  },
+  {
+    "id": 24,
+    "first_name": "David",
+    "last_name": "Clark",
+    "email": "david.clark@example.com",
+    "gender": "Male",
+    "job_title": "IT Support Specialist"
+  },
+  {
+    "id": 25,
+    "first_name": "Victoria",
+    "last_name": "Ramirez",
+    "email": "victoria.ramirez@example.com",
+    "gender": "Female",
+    "job_title": "Network Engineer"
+  },
+  {
+    "id": 26,
+    "first_name": "Andrew",
+    "last_name": "Lewis",
+    "email": "andrew.lewis@example.com",
+    "gender": "Male",
+    "job_title": "Mobile App Developer"
+  },
+  {
+    "id": 27,
+    "first_name": "Grace",
+    "last_name": "Robinson",
+    "email": "grace.robinson@example.com",
+    "gender": "Female",
+    "job_title": "Graphic Designer"
+  },
+  {
+    "id": 28,
+    "first_name": "Antar",
+    "last_name": "Nath",
+    "email": "a@gmail.com",
+    "gender": "male",
+    "job_title": "sw"
+  },
+  {
+    "id": 29
+  },
+  {
+    "id": 30
+  },
+  {
+    "id": 31,
+    "first_name": "Antar",
+    "last_name": "Nath",
+    "email": "antar.nath@example.com",
+    "gender": "Male",
+    "job_title": "Data Analyst"
+  }
+]
